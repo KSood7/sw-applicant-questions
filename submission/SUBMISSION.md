@@ -5,4 +5,4 @@ https://www.tinkercad.com/things/hicKVTlOgNJ-terrific-fyyran-borwo/editel?return
 ```
 
 ## Program Explanation
-I now have added the reaction time calculation logic, pretty simple, using millis() to calculate.
+The delay() would stop the arduino from sensing inputs, then we can't detect false starts. Fixed that. Added false start functionality correctly.

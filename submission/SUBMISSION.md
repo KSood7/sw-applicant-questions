@@ -5,6 +5,4 @@ https://www.tinkercad.com/things/hicKVTlOgNJ-terrific-fyyran-borwo/editel?return
 ```
 
 ## Program Explanation
-```
-I have been trying to setup the circuit. I have some test code to check if the button works with the led or not. It does now with the current circuit setup.
-```
+I now have added the reaction time calculation logic, pretty simple, using millis() to calculate.

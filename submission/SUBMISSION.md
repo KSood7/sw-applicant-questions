@@ -1,10 +1,10 @@
 ## Tinkercad Circuit Link
 
 ```
-replace this box with your Tinkercad circuit link
+https://www.tinkercad.com/things/hicKVTlOgNJ-terrific-fyyran-borwo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=bJj9ES8dsHtZhK-3XMb5opYSAW9_lS8HnqSe8hWGNjU
 ```
 
 ## Program Explanation
 ```
-replace me with a short explanation of how your program / circuit works and any assumptions or design decisions you made
+I have been trying to setup the circuit. I have some test code to check if the button works with the led or not. It does now with the current circuit setup.
 ```
